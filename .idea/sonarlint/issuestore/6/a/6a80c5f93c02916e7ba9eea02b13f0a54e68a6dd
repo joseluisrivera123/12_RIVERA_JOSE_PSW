@@ -1,0 +1,27 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(˜é8¾—¢ÎÄ1
+v
+java:S1128"TRemove this unused import 'com.ascencio.dev.springwebfluxapi.domain.model.Programs'.(´ë¡Òüÿÿÿÿ8îÚ¢ÎÄ1
+~
+java:S1128"\Remove this unused import 'com.ascencio.dev.springwebfluxapi.repository.ProgramsRepository'.(¨‡Íÿÿÿÿÿ8ïÚ¢ÎÄ1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ïÚ¢ÎÄ1
+e
+java:S1128"CRemove this unused import 'org.springframework.util.ResourceUtils'.(Š’Ğ¦úÿÿÿÿ8ïÚ¢ÎÄ1
+Z
+java:S1128"8Remove this unused import 'reactor.core.publisher.Flux'.(·äÍÆøÿÿÿÿ8ïÚ¢ÎÄ1
+Z
+java:S1128	"8Remove this unused import 'reactor.core.publisher.Mono'.(²îöØÿÿÿÿÿ8ïÚ¢ÎÄ1
+[
+java:S1128
+">Remove this unused import 'reactor.core.scheduler.Schedulers'.(¨à˜æ8ğÚ¢ÎÄ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ğÚ¢ÎÄ1
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ğÚ¢ÎÄ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ğÚ¢ÎÄ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ğÚ¢ÎÄ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ğÚ¢ÎÄ1

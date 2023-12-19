@@ -1,0 +1,7 @@
+
+…
+java:S1319©"gThe type of "parameters" should be an interface such as "Map" rather than the implementation "HashMap".(ı”ŞÔ8¡òÔÃ1
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8¹òÔÃ1
+J
+java:S1905º"'Remove this unnecessary cast to "long".(×¨­ìüÿÿÿÿ8ÍòÔÃ1

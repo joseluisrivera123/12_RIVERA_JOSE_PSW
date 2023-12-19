@@ -1,0 +1,10 @@
+
+‡
+java:S1192&"jDefine a constant instead of duplicating this literal "http://localhost:8084/api/funcionaryData/" 3 times.(£µ¬®8””İöÄ1
+†
+java:S1192+"dDefine a constant instead of duplicating this literal "http://localhost:8082/api/teenData/" 3 times.(ÈÓ‘Ûøÿÿÿÿ8•”İöÄ1
+l	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß–¬8•”İöÄ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(Úš¾Ó8£”İöÄ1
+V
+java:S1611="4Remove the parentheses around the "active" parameter(‹ó½İúÿÿÿÿ8©”İöÄ1

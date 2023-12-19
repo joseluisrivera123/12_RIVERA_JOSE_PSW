@@ -1,0 +1,5 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(χείΰ8†ώ‹”Γ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ΐτύÿÿÿÿ
+o	java:S116"SRename this field "DNIfunci" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Κ¤‡8‰”Γ1
+m	java:S116"QRename this field "DNIado" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Α­έή8‰”Γ1
